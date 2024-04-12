@@ -1,4 +1,4 @@
 #Hello? world!
-Я студент Нетологии
-Мне 26 лет
-Я из г. Воронеж
+I study in Netology
+I am 26 years old
+I'm from the city of Voronezh
